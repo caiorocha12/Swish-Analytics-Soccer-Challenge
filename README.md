@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-This project builds a machine learning model to estimate the probability that a soccer player wins a foul after a `Ball Receipt*` or `Ball Recovery` event.
+This project builds a machine learning model to estimate the probability that a soccer player wins a foul after a `Ball Receipt` or `Ball Recovery` event.
 
 The goal was to create a full data science workflow using soccer event data, from target creation and feature engineering to exploratory analysis, model training, evaluation, and interpretation.
 
